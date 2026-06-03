@@ -2,11 +2,11 @@
 
 <img src="./assets/banner.png" width="100%">
 
-<br><br>
+<br>
 
-![](https://img.shields.io/badge/Coding_Since-2023-6CC644?style=for-the-badge)
-![](https://img.shields.io/badge/Experience-2_Years-4C8EDA?style=for-the-badge)
-![](https://img.shields.io/badge/Developer-Fullstack-8A2BE2?style=for-the-badge)
+[![](https://img.shields.io/badge/Coding_Since-2023-6CC644?style=for-the-badge)](https://github.com/jojonasarmy)
+[![](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3VgKcU9Dxh)
+[![](https://img.shields.io/badge/GitHub-@jojonasarmy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jojonasarmy)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 # 👋 Hey there
 
-I'm **Jonas**, a passionate developer with around **2 years of coding experience**.
+I'm **Jonas**, a software developer focused on modern web applications, automation, backend systems, and creative projects.
 
-I enjoy building modern applications, creating automation tools, developing Discord bots, and continuously learning new technologies. My goal is to create efficient, clean, and user-friendly solutions that bring ideas to life. ❤️
+I enjoy building useful applications, experimenting with new technologies, and turning ideas into polished products. My main interests include web development, automation, APIs, Discord applications, and scalable backend solutions. ❤️
 
 ---
 
@@ -30,20 +30,20 @@ I enjoy building modern applications, creating automation tools, developing Disc
 
 ---
 
-## 💻 Technologies & Experience
+## 💻 Technologies
 
-| Technology | Level | Purpose |
-|------------|--------|----------|
-| 🐍 Python | 🟩 Advanced | Automation, APIs, Discord Bots, Backend Development |
-| 🔷 TypeScript | 🟩 Advanced | Modern Web Applications & Dashboards |
+| Technology | Level | Usage |
+|------------|--------|--------|
+| 🐍 Python | 🟩 Advanced | Automation, APIs, Bots & Backend Development |
+| 🔷 TypeScript | 🟩 Advanced | Modern Web Applications |
 | ⚡ JavaScript | 🟩 Advanced | Interactive Frontend Development |
-| 🗄️ MySQL | 🟩 Advanced | Database Design & Query Optimization |
-| ☕ Java | 🟨 Intermediate | Backend Services & Plugin Development |
-| 🌐 HTML/CSS | 🟩 Advanced | Responsive & Modern User Interfaces |
+| 🌐 HTML/CSS | 🟩 Advanced | Responsive UI Design |
+| 🗄️ MySQL | 🟩 Advanced | Databases & Query Optimization |
+| ☕ Java | 🟨 Intermediate | Backend Systems & Plugin Development |
 
 ---
 
-## 🏆 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -57,42 +57,31 @@ I enjoy building modern applications, creating automation tools, developing Disc
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jojonasarmy&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jojonasarmy&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Current Focus
 
-### 🤖 Discord Bot
-Feature-rich Discord bot with automation, moderation and utility features.
-
-### 🌐 Web Applications
-Modern and responsive web applications built using TypeScript and modern frameworks.
-
-### ⚡ Automation Tools
-Custom scripts and tools designed to simplify repetitive tasks.
+```txt
+⚡ Building modern web applications
+🤖 Developing Discord projects
+🌐 Backend & API development
+🚀 Automation and productivity tools
+📚 Learning new technologies
+```
 
 ---
 
-## 📈 Contribution Streak
+## 🏆 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jojonasarmyE&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jojonasarmy&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-- Building modern web applications
-- Backend development
-- Automation tools
-- Clean architecture
-- Learning new technologies
 
 ---
 
@@ -100,19 +89,33 @@ Custom scripts and tools designed to simplify repetitive tasks.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jojonasarmy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://discord.com/invite/3VgKcU9Dxh">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🎵 Discord Presence
+## 🎮 Discord Presence
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px">
+<img src="https://lanyard.cnrad.dev/api/901892041422819369?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px">
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jojonasarmy&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -120,10 +123,8 @@ Custom scripts and tools designed to simplify repetitive tasks.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+### ⭐ Thanks for visiting my profile!
 
-<br><br>
-
-⭐ Thanks for visiting my profile!
+*"Code. Create. Improve."*
 
 </div>
