@@ -4,7 +4,7 @@
 
 <br>
 
-[![](https://img.shields.io/badge/Coding_Since-2023-6CC644?style=for-the-badge)](https://github.com/jojonasarmy)
+[![](https://img.shields.io/badge/Coding_Since-2024-6CC644?style=for-the-badge)](https://github.com/jojonasarmy)
 [![](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3VgKcU9Dxh)
 [![](https://img.shields.io/badge/GitHub-@jojonasarmy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jojonasarmy)
 
@@ -16,7 +16,7 @@
 
 I'm **Jonas**, a software developer focused on modern web applications, automation, backend systems, and creative projects.
 
-I enjoy building useful applications, experimenting with new technologies, and turning ideas into polished products. My main interests include web development, automation, APIs, Discord applications, and scalable backend solutions. ❤️
+I enjoy learning new technologies, working on personal projects, and finding creative ways to solve problems. I'm always looking to expand my knowledge, improve my coding skills, and build applications that are both useful and enjoyable to create. 💝
 
 ---
 
